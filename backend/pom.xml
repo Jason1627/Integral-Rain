@@ -13,7 +13,7 @@
 		<profile>
 			<id>dev</id>
 			<properties>
-				<db.host>192.168.193.128</db.host>
+				<db.host>192.168.183.137</db.host>
 				<db.user>root</db.user>
 				<db.pwd>root</db.pwd>
 			</properties>
@@ -25,7 +25,7 @@
 		<profile>
 			<id>prod</id>
 			<properties>
-                <db.host>127.0.0.1</db.host>
+                <db.host>192.168.183.137</db.host>
                 <db.user>root</db.user>
                 <db.pwd>root</db.pwd>
 			</properties>
@@ -127,7 +127,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<port>8888</port>
+					<port>6688</port>
 					<path>/</path>
 					<uriEncoding>UTF-8</uriEncoding>
 				</configuration>
