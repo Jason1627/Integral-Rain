@@ -1,0 +1,23 @@
+
+\
+java:S1192?"FDefine a constant instead of duplicating this literal "model" 3 times.(˜Şô¨
+a
+java:S1192("KDefine a constant instead of duplicating this literal "zcurd_busi" 3 times.(°Ğ¥™
+h
+java:S1192"MDefine a constant instead of duplicating this literal "dictDatatype" 3 times.(Š™­„øÿÿÿÿ
+`
+java:S1192("JDefine a constant instead of duplicating this literal "card_game" 3 times.(°Ğ¥™
+V
+java:S1128";Remove this unused import 'com.busi.model.CardGameProduct'.(¨ä›ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'com.jfinal.plugin.activerecord.Model'.(âï‹Œşÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'com.busi.model.CardGameRules'.(šœâÍ
+W
+java:S1854†";Remove this useless assignment to local variable "orderBy".(„ñÁùÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(à›ËÜøÿÿÿÿ
+o
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù´»N

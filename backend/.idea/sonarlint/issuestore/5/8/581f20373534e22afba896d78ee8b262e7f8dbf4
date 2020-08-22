@@ -1,0 +1,21 @@
+
+m
+java:S1192#"RDefine a constant instead of duplicating this literal "card_game_product" 3 times.(©×Õûıÿÿÿÿ
+\
+java:S1192B"FDefine a constant instead of duplicating this literal "model" 3 times.(ï’§™
+j
+java:S1192"ODefine a constant instead of duplicating this literal "dictDatagameid" 3 times.(‹ñŸ¹ÿÿÿÿÿ
+f
+java:S1192#"KDefine a constant instead of duplicating this literal "zcurd_busi" 3 times.(©×Õûıÿÿÿÿ
+e
+java:S1192-"JDefine a constant instead of duplicating this literal "productid" 7 times.(¶´„Öşÿÿÿÿ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "dictDataproductid" 3 times.(ÙÆÊİıÿÿÿÿ
+b
+java:S1192&"GDefine a constant instead of duplicating this literal "gameid" 7 times.(é¤‡áşÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "orderBy".(„ñÁùÿÿÿÿ
+u
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(à›ËÜøÿÿÿÿ
+o
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù´»N

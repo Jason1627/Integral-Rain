@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="305e03f4-3c8d-46b3-ad0a-d2d5aa8d27cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\maven\maven_repository" />
+        <option name="mavenHome" value="D:/Java/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gAbeTF9yOZpq8WSfq9VK9lqBJE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Integral-Rain-Fronted/frontend" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend-dev" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="305e03f4-3c8d-46b3-ad0a-d2d5aa8d27cb" name="Default Changelist" comment="" />
+      <created>1597560439436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597560439436</updated>
+      <workItem from="1597560447616" duration="2331000" />
+      <workItem from="1597563072404" duration="2048000" />
+      <workItem from="1597622547734" duration="4981000" />
+      <workItem from="1597734906532" duration="720000" />
+      <workItem from="1597802287711" duration="729000" />
+      <workItem from="1597902282657" duration="2233000" />
+    </task>
+    <task id="LOCAL-00001" summary="冯佳兴提交测试代码-2020年8月19日16:07:51">
+      <created>1597824476946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597824476946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="冯佳兴提交测试代码-2020年8月19日16:07:51" />
+    <option name="LAST_COMMIT_MESSAGE" value="冯佳兴提交测试代码-2020年8月19日16:07:51" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="78" width="1092" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597561782102">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="757" y="78" width="1092" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597561782102" />
+    <state x="543" y="149" key="CommitChangelistDialog2" timestamp="1597824476103">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="543" y="149" key="CommitChangelistDialog2/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824476103" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1597914726864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597914726864" />
+    <state width="1476" height="319" key="GridCell.Tab.0.bottom" timestamp="1597824569719">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1476" height="319" key="GridCell.Tab.0.bottom/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824569719" />
+    <state width="1476" height="319" key="GridCell.Tab.0.center" timestamp="1597824569719">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1476" height="319" key="GridCell.Tab.0.center/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824569719" />
+    <state width="1476" height="319" key="GridCell.Tab.0.left" timestamp="1597824569718">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1476" height="319" key="GridCell.Tab.0.left/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824569718" />
+    <state width="1476" height="319" key="GridCell.Tab.0.right" timestamp="1597824569719">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1476" height="319" key="GridCell.Tab.0.right/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824569719" />
+    <state x="463" y="170" key="SettingsEditor" timestamp="1597560991808">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="463" y="170" key="SettingsEditor/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597560991808" />
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1597824561155">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597824561155" />
+    <state x="2337" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1597565065698">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2337" y="388" key="com.intellij.ide.util.TipDialog/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597565065698" />
+    <state x="559" y="320" key="new project wizard" timestamp="1597563199502">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="559" y="320" key="new project wizard/1920.0.1536.840/-1440.0.1440.870/0.0.1920.1050@0.0.1920.1050" timestamp="1597563199502" />
+  </component>
+</project>
